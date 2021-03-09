@@ -3,7 +3,7 @@
 
 ## Tutorial
 
-* [Tutorial](/tutorial)
+* [Tutorial](/digital-terning/tutorial)
 
 ## Rediger dette projekt ![Byggestatus-badge](https://github.com/specialminds-dennis/digital-terning/workflows/MakeCode/badge.svg)
 
