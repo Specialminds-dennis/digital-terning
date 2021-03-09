@@ -39,3 +39,7 @@ input.onGesture(Gesture.Shake, function () {
 ## Step 4
 
 Nu mangler du bare at at downloade programmet til din Micro:Bit
+
+
+* for PXT/microbit
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
