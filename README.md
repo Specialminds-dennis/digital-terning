@@ -1,14 +1,9 @@
 
 > Åbn denne side på [https://specialminds-dennis.github.io/digital-terning/](https://specialminds-dennis.github.io/digital-terning/)
 
-## Brug som udvidelse
+## Tutorial
 
-Dette lager kan blive tilføjet som en **udvidelse** i MakeCode.
-
-* åbn [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klik på **Nyt projekt**
-* Klik på **Udvidelser** under tandhjulsmenuen
-* søg efter **https://github.com/specialminds-dennis/digital-terning**, og importer
+* [Tutorial](/tutorial)
 
 ## Rediger dette projekt ![Byggestatus-badge](https://github.com/specialminds-dennis/digital-terning/workflows/MakeCode/badge.svg)
 
